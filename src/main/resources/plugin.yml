@@ -1,0 +1,4 @@
+name: VoxelSniperAddon Gui
+version: '${version}'
+main: com.github.johnclark96.voxelsniperaddongui.VoxelSniperAddonGui
+api-version: 1.19
